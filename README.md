@@ -29,5 +29,7 @@ It was tested in RHEL 8 and Fedora 38
 [user]
 default=here_your_username
 ```
+Remember to restart WLS machine by using in powershell wsl --shutdown
+
 If you don't have you have situation that files in your home directory start to be installed from root account. 
 2. If you want to have working treesitter you need to have installed gcc. 
